@@ -99,11 +99,6 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "weibo",
+        title: "HL",
         href: "https://hullious.top"
-    } 
-    {
-        title: "twitter",
-        href: "https://twitter.com/Hullious"
-    }
-    ]
+    }    ]
